@@ -36,4 +36,4 @@ A lightweight and efficient desktop application for loading and visualizing 3D m
 
 ### 2. On MacOS
 
-![Interactive Controls](https://youtu.be/y8POY8va9HU)
+![Interactive Controls](https://www.youtube.com/watch?v=y8POY8va9HU)
