@@ -30,10 +30,6 @@ A lightweight and efficient desktop application for loading and visualizing 3D m
 
 ## App Preview
 
-### 1. On Windows
+### 1. On Windows [Watch on YouTube](https://www.youtube.com/watch?v=y8POY8va9HU)
 
-![Loading and Display](windows.gif)
-
-### 2. On MacOS
-
-![Interactive Controls](https://www.youtube.com/watch?v=y8POY8va9HU)
+### 2. On MacOS [Watch on YouTube](https://www.youtube.com/watch?v=y8POY8va9HU)
